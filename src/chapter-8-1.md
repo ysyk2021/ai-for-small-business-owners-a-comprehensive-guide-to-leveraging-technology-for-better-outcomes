@@ -1,5 +1,4 @@
-Chapter 7: Implementing AI for More Effective Customer Service: Overview of AI Applications for Customer Service
-================================================================================================================
+# Overview of AI Applications for Customer Service
 
 AI has the potential to revolutionize customer service in small businesses. In this chapter, we will explore various AI applications for customer service.
 

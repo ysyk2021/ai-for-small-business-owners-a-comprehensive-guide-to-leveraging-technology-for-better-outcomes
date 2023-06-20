@@ -1,5 +1,4 @@
-Chapter 5: Implementing AI for More Effective Operations Management: Case Studies of Successful AI Implementations in Operations Management
-===========================================================================================================================================
+# Case Studies of Successful AI Implementations in Operations Management
 
 Real-world case studies provide valuable insights into successful AI implementations in operations management. Small businesses can learn from these examples and apply similar strategies and approaches to their own operations. In this chapter, we will explore some case studies of successful AI implementations in operations management.
 
