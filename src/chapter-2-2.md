@@ -1,4 +1,4 @@
-# Types of AI Used for Small Businesses
+
 
 Small businesses can leverage various types of AI, each with its unique capabilities and benefits. In this chapter, we will explore some of the most common types of AI used for small businesses.
 

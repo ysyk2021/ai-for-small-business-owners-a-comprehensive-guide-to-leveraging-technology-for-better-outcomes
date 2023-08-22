@@ -1,4 +1,4 @@
-# Evaluating Data Availability and Quality
+
 
 Before implementing AI tools and technologies in your small business, it's essential to evaluate the availability and quality of your data. In this chapter, we will explore how to prepare your small business for AI implementation by evaluating data availability and quality.
 

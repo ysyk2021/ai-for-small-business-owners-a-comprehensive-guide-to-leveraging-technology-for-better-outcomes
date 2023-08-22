@@ -1,4 +1,4 @@
-# Developing Governance Frameworks to Ensure Responsible AI Use
+
 
 As small businesses look to implement AI tools, it's important to develop governance frameworks that ensure responsible use of these technologies. In this chapter, we will explore best practices for developing governance frameworks for AI in small businesses.
 
