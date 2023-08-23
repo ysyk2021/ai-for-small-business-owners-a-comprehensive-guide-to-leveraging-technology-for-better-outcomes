@@ -1,5 +1,4 @@
 
-
 AI has the potential to revolutionize customer service in small businesses. In this chapter, we will explore various AI applications for customer service.
 
 Chatbots

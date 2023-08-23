@@ -1,5 +1,4 @@
 
-
 As small businesses look to leverage AI technology, it's important to choose the right tools and technologies that meet their specific needs. In this chapter, we will provide an overview of AI tools and technologies that are well-suited for small businesses.
 
 Natural Language Processing (NLP)

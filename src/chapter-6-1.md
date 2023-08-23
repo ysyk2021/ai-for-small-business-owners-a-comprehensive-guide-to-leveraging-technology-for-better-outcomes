@@ -1,5 +1,4 @@
 
-
 Operations management is a critical aspect of small business success, and AI can help small businesses optimize their operations and improve performance. In this chapter, we will provide an overview of AI applications for operations management.
 
 Inventory Management

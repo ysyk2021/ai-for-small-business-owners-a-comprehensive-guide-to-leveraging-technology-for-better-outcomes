@@ -1,5 +1,4 @@
 
-
 AI has the potential to bring significant benefits to small businesses, but it also raises ethical concerns that must be addressed. In this chapter, we will explore ethical considerations for AI implementation in small businesses.
 
 Fairness and Bias

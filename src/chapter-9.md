@@ -1,5 +1,4 @@
 
-
 Measuring the impact of AI is critical for small businesses to ensure that they are achieving their goals and maximizing the benefits of AI implementation. In this chapter, we will explore best practices for measuring AI impact on small business performance.
 
 Assessing the Effectiveness of AI for Small Business Growth
