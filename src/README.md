@@ -8,3 +8,7 @@ In addition, we will cover best practices for AI implementation, including selec
 Whether you're a seasoned entrepreneur or just starting out, this book will provide you with the knowledge and tools needed to harness the power of AI in your small business. By following the best practices outlined in this guide, you can achieve better outcomes and stay competitive in today's rapidly changing marketplace.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
